@@ -1,0 +1,7 @@
+﻿  Hasher.c
+F:\Malware Codes\HellsHazzard-main\Hasher\Hasher.c(45,1): warning C4010: single-line comment contains line-continuation character
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Hasher.vcxproj -> F:\Malware Codes\HellsHazzard-main\x64\Release\Hasher.exe

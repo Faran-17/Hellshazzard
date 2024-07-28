@@ -1,0 +1,35 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (Hell'sHall.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling HellsAsm.asm...
+  HellsHall.c
+  main.c
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\HellsHall.c(111,19): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\HellsHall.c(122,1): warning C4010: single-line comment contains line-continuation character
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\HellsHall.c(222,41): warning C4047: '=': 'PVOID' differs in levels of indirection from 'ULONG_PTR'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\HellsHall.c(228,23): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\HellsHall.c(228,91): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(121,54): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(121,54): warning C4024: 'MessageBoxA': different types for formal and actual parameter 4
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(123,41): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(123,41): warning C4024: 'SetCriticalSectionSpinCount': different types for formal and actual parameter 2
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(125,31): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(125,31): warning C4024: 'GetWindowLongPtrW': different types for formal and actual parameter 2
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(128,28): warning C4047: 'function': 'LCID' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(128,28): warning C4024: 'ConvertDefaultLocale': different types for formal and actual parameter 1
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(129,27): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(129,27): warning C4024: 'MultiByteToWideChar': different types for formal and actual parameter 1
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(129,33): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(129,33): warning C4024: 'MultiByteToWideChar': different types for formal and actual parameter 2
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(129,45): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(129,45): warning C4024: 'MultiByteToWideChar': different types for formal and actual parameter 4
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(129,57): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(129,57): warning C4024: 'MultiByteToWideChar': different types for formal and actual parameter 6
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(200,10): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(204,11): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(245,11): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(248,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+F:\Malware Codes\HellsHazzard-main\Hell'sHall\main.c(253,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Hell'sHall.vcxproj -> F:\Malware Codes\HellsHazzard-main\x64\Release\HellsHazzard.exe
