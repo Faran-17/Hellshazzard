@@ -29,6 +29,6 @@ Using HellsHall indirect system calls which is a modified version of Tartarus ga
 https://github.com/user-attachments/assets/fc7cb7a9-a33f-4034-94f2-536241dd44ec  
 
 
-Note - AV evasion and kernel base detection is out of the scope of this tool. New features and techniques will be implemented in other tools in near future.
+Note - This tool is not tested against commercial EDRs and AV evasion and kernel base detection is out of the scope as well. New features and techniques will be implemented in other tools in near future.
 
 
