@@ -16,17 +16,19 @@ Here are the screenshot and demo of the tool
 ## InetSim Detection
 Before execution, the malware will check if the InetSim, which is a internet simulation sandox to trick malwares to continue to execute and make connection to the C2.
 
-![image](https://github.com/user-attachments/assets/3efd2b00-d134-4f86-89ef-65a953891476)  
+![image](https://github.com/user-attachments/assets/926f418b-8b20-436d-ab60-92cd0298d071)
+
 
 ## IAT Obfuscation
 IAT Obfuscation hides the presence of malicious APIs in IAT table to evade basic static analysis. 
 
-![image](https://github.com/user-attachments/assets/f2d00e16-8a6a-489d-ba9f-6f38ef4d6bc5)   
+![image](https://github.com/user-attachments/assets/e625f677-0cba-4903-a0c5-8b6dfa9418d8)
+ 
 
 ## NT API Evasion
 Using HellsHall indirect system calls which is a modified version of Tartarus gate logic to evade NT Api hooking by [@BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) EDR.  
 
-https://github.com/user-attachments/assets/fc7cb7a9-a33f-4034-94f2-536241dd44ec  
+https://github.com/user-attachments/assets/114bec4f-1770-42b0-a05b-34a03dcd78cb
 
 
 Note - This tool is not tested against commercial EDRs and AV evasion and kernel base detection is out of the scope as well. New features and techniques will be implemented in other tools in near future.
